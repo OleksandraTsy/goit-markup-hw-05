@@ -662,12 +662,11 @@ margin-bottom: 4px;
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 8px;
+margin-bottom: 8px;
 }
 
 .review-form-input-wrapper {
 position: relative;
-
 }
 
 .review-form-input {
@@ -744,7 +743,7 @@ fill: #F4F4FD;
 
 .review-form-own-checkbox-icon {
 fill: #F4F4FD;
-opacity: 0;
+opacity: 1;
 }
 
 .review-form-checkbox:checked 
